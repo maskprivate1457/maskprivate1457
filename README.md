@@ -8,4 +8,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=maskprivate1457&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari Github stats" /><br />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=monokai&langs_count=50"/><br />
 </p>
-<!--
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
+  </a>
+</p>
