@@ -9,7 +9,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=monokai&langs_count=50"/><br />
 </p>
 <!--
-<a href="https://github.com/maskprivate1457/MultiBF"><img title="MultiBF" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=MultiBF&theme=vision-friendly-monokai"></a>
-<a href="https://github.com/maskprivate1457/AngCyber"><img title="AngCyber" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=AngCyber&theme=vision-friendly-monokai"></a>
-<a href="https://github.com/maskprivate1457/web_basis"><img title="AngCyber" src="https://github-readme-stats.vercel.app/api/pin/?username=AngCyber&repo=web_basis&theme=vision-friendly-monokai"></a>
-
