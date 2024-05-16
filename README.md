@@ -35,7 +35,7 @@
   </a>
   <a href="https://instagram.com/mask_private1457">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=bold pink" alt="Instagram Badge"/>
-	  <a href="your-twitter-URL">
+	  <a href="https://www.facebook.com/83927502j482948.849274j3927402">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor= bold white" alt="Facebook Badge"/>
 		  <a href="mailto:hubungikami123456@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=bold red" alt="Gmail Badge"/>
