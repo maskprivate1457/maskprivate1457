@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maskprivate1457" alt="maskprivate1457" /></a> </p>
 
-<div align="center"><img src="https://b.top4top.io/p_3058j78e50.jpg"></div>
+<div align="center"><img src="https://e.top4top.io/p_3058p369g0.gif"></div>
 
 - 🌱 I’m currently learning **Program Language**
 
