@@ -1,18 +1,17 @@
 <h1 align="center">Hi 👋, I'm Demias Syihab Aldino</h1>
 <h3 align="center">I'm just a junior developer who insists on demanding skills !</h3>
 
+<div align="center"><img src="https://e.top4top.io/p_3058p369g0.gif"></div>
+<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maskprivate1457" alt="maskprivate1457" /></a> </p>
 
-<div align="center"><img src="https://e.top4top.io/p_3058p369g0.gif"></div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=maskprivate1457&label=Profile%20views&color=0e75b6&style=flat" alt="maskprivate1457" /> </p>
 
 - 🌱 I’m currently learning **Program Language**
 
 - 📝 I regularly write articles on [https://learnsocialtutorial.wordpress.com](https://learnsocialtutorial.wordpress.com)
 
 - 📫 How to reach me **hubungikami12345@gmail.com**
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maskprivate1457&label=Profile%20views&color=0e75b6&style=flat" alt="maskprivate1457" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
