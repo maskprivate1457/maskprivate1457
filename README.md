@@ -13,13 +13,6 @@
 
 - 📫 How to reach me **hubungikami12345@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/83927502j482948.849274j3927402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="83927502j482948.849274j3927402" height="30" width="40" /></a>
-<a href="https://instagram.com/mask_private1457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mask_private1457" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@tutorialtermux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tutorialtermux" height="30" width="40" /></a>
-</p>
-
 <p align='center'>
     <a href="#"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=chartreuse-dark"
     width="400" title="Most Used Languages"></a></p>
@@ -31,7 +24,23 @@
 
 <p align='center'>
     <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=maskprivate1457&theme=dark" width="400" title="Github Streak Stats"></a></p></img>
-				
+
+<div id="badges" align="center">
+  <a href=" ">
+    <img src="https://img.shields.io/badge/Whatsapp-bold green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+  </a>
+  <a href=" ">
+    <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
+  </a>
+  <a href="https://instagram.com/mask_private1457">
+    <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=bold pink" alt="Instagram Badge"/>
+	  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor= bold white" alt="Facebook Badge"/>
+		  <a href="mailto:hubungikami123456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=bold red" alt="Gmail Badge"/>
+  </a>
+</div>
+
 <h2 align="center">Skills</h2>
 <p align="center">
 <a href="https://skillicons.dev">
