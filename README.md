@@ -1,29 +1,41 @@
-[![Facebokm Badge](https://img.shields.io/badge/-facebook.demias-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100055386134167.qwerty69/)](https://www.facebook.com/profile.php?id=100055386134167.qwerty69) [![Instagram Badge](https://img.shields.io/badge/-instagram.demias_-f01397?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/mask_private1457.qwerty_/)](https://www.instagram.com/mask_private1457.qwerty_/) [![WhatsApp Badge](https://img.shields.io/badge/-6289667838732-green?style=flat&logo=WhatsApp&logoColor=white&link=https://wa.me/6289667838732/)](https://wa.me/6289667838732/) [![Github Badge](https://img.shields.io/badge/-maskprivate1457-black?style=flat&logo=Github&logoColor=white&link=https://github.com/maskprivate1457/)](https://github.com/maskprivate1457) [![Youtube Badge](https://img.shields.io/badge/-Learn&Tutorial-red?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/@LearnTutorial864.qwerty69/)](https://youtube.com/@LearnTutorial864.qwerty69) [![Youtube Badge](https://img.shields.io/badge/-TutorialTermux-red?style=flat&logo=Youtube&logoColor=white&link=https://youtube.com/@TutorialTermux.qwerty69/)](https://youtube.com/@TutorialTermux.qwerty69)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Koulen&size=25&duration=5000&color=light&center=true&vCenter=true&multiline=true&width=600&lines=Selamat+Datang+Digithub+Demias+Syihab+Jangan+Lupa+Follow)](https://git.io/typing-svg)
-### WIBUTZY [4040]() THERE ALWAYS IS 
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/L8Cr9GFp/gif-hacker-6.gif' border='0' alt='gif-hacker-6'/></a>
-### Helo ngab, [Demias Syihab]() is here
-<p align=left> <img src=https://komarev.com/ghpvc/?username=maskprivate1457 alt=Demias/> </p>
-<img src="https://github-readme-stats.vercel.app/api?username=maskprivate1457&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari Github stats" /><br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=monokai&langs_count=50"/><br />
+<h1 align="center">Hi 👋, I'm Demias Syihab Aldino</h1>
+<h3 align="center">I'm just a junior developer who insists on demanding skills !</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maskprivate1457" alt="maskprivate1457" /></a> </p>
+
+<div align="center"><img src="https://b.top4top.io/p_3058j78e50.jpg"></div>
+
+- 🌱 I’m currently learning **Program Language**
+
+- 📝 I regularly write articles on [https://learnsocialtutorial.wordpress.com](https://learnsocialtutorial.wordpress.com)
+
+- 📫 How to reach me **hubungikami12345@gmail.com**
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maskprivate1457&label=Profile%20views&color=0e75b6&style=flat" alt="maskprivate1457" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/83927502j482948.849274j3927402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="83927502j482948.849274j3927402" height="30" width="40" /></a>
+<a href="https://instagram.com/mask_private1457" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mask_private1457" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@tutorialtermux" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@tutorialtermux" height="30" width="40" /></a>
 </p>
+
+<p align='center'>
+    <a href="#"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=chartreuse-dark"
+    width="400" title="Most Used Languages"></a></p>
+    
 <div align="center">
 	<p align='center'>
-		<a href="#"><img
-				src="https://github-readme-stats.vercel.app/api?username=maskprivate1457&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
-				width="400" title="maskprivate1457 Github Starts"></a>
-	</p>
-	<p align='center'>
-		<a href="#"><img
-				src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=chartreuse-dark"
-				width="400" title="Most Used Languages"></a></p>
-        <p align='center'>
-                <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=maskprivate1457&theme=dark" width="400" title="Github Streak Stats"></a></p>
-	<p align='center'>
-<h2 align="center">Skills </h2>
+		<a href="#"><img				src="https://github-readme-stats.vercel.app/api?username=maskprivate1457&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200"
+		width="400" title="maskprivate1457 Github Starts"></a></p>
 
+<p align='center'>
+    <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=maskprivate1457&theme=dark" width="400" title="Github Streak Stats"></a></p></img>
+				
+<h2 align="center">Skills</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,golang,vscode,androidstudio,c,cs,cpp,js,css,html" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ai,python,golang,vscode,photoshop,wordpress,typescript,bash,unity,php,js,css,html"</img>
+    </p>
+</a>
