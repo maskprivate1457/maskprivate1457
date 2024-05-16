@@ -12,6 +12,7 @@
 - 📝 I regularly write articles on [https://learnsocialtutorial.wordpress.com](https://learnsocialtutorial.wordpress.com)
 
 - 📫 How to reach me **hubungikami12345@gmail.com**
+<br>
 
 <p align='center'>
     <a href="#"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maskprivate1457&layout=compact&theme=chartreuse-dark"
@@ -26,10 +27,10 @@
     <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com?user=maskprivate1457&theme=dark" width="400" title="Github Streak Stats"></a></p></img>
 
 <div id="badges" align="center">
-  <a href=" ">
+  <a href="https://wa.link/n7ahb7">
     <img src="https://img.shields.io/badge/Whatsapp-bold green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <a href=" ">
+  <a href="https://www.youtube.com/@TutorialTermux">
     <img src="https://img.shields.io/badge/YouTube-white?style=for-the-badge&logo=youtube&logoColor=red" alt="Youtube Badge"/>
   </a>
   <a href="https://instagram.com/mask_private1457">
